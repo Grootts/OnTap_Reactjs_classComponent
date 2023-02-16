@@ -55,6 +55,7 @@ export default class BaiTapThuKinh extends Component {
           backgroundImage: "url(./glassesImage/background.jpg",
           minHeight: "1000px",
           backgroundSize: "1300px",
+          border: "2px solid black",
         }}
       >
         <style>{keyFrame}</style>
@@ -84,6 +85,7 @@ export default class BaiTapThuKinh extends Component {
                     margin: "63px",
                     left: "150px",
                     animation: `animChangeGlasses${Date.now()} 1s `,
+                    opacity: "0.7",
                   }}
                   src={this.state.glasses.url}
                 />
@@ -119,6 +121,7 @@ export default class BaiTapThuKinh extends Component {
                     width: "300px",
                     height: "270px",
                     position: "absolute",
+                    border: "2px solid black",
                   }}
                   src="./glassesImage/model.jpg"
                 />
@@ -131,6 +134,7 @@ export default class BaiTapThuKinh extends Component {
                     top: "55px",
                     left: "523px",
                     animation: `animChangeGlasses2${Date.now()} 1s `,
+                    opacity: "0.7",
                   }}
                   src={this.state.glasses.url}
                 />

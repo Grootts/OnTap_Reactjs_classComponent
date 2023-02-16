@@ -4,8 +4,8 @@ export default class Menu extends Component {
   render() {
     const MenuStyle = {
       width: "100%",
-      backgroundColor: "#323232",
-      height: "50px",
+      backgroundColor: "#ededed",
+      height: "55px",
       display: "flex",
       opacity: "0.9",
     };
@@ -15,6 +15,7 @@ export default class Menu extends Component {
           style={{
             color: "black",
             padding: "10px",
+            cursor: "pointer",
           }}
         >
           Cyberlearn Movie
@@ -24,6 +25,7 @@ export default class Menu extends Component {
             color: "black",
 
             padding: "15px",
+            cursor: "pointer",
           }}
         >
           Home
@@ -32,6 +34,7 @@ export default class Menu extends Component {
           style={{
             color: "black",
             padding: "15px",
+            cursor: "pointer",
           }}
         >
           Link

@@ -2,12 +2,13 @@ import "./App.css";
 
 import BaiTapRenderFilm from "./BaiTapRenderFilm/BaiTapRenderFilm";
 import BaiTapThuKinh from "./BaitapThuKinh/BaiTapThuKinh";
-
+import BaiTapChonXe from "./BaiTapChonXe/BaiTapChonXe"
 function App() {
   return (
     <div className="App">
-      {/* <BaiTapRenderFilm /> */}
-      <BaiTapThuKinh />
+      {/* <BaiTapChonXe/>
+      <BaiTapRenderFilm />  */}
+       <BaiTapThuKinh />
     </div>
   );
 }
