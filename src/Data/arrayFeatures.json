@@ -4,7 +4,7 @@
       "title": "Crystal Black",
       "type": "Pearl",
       "img": "./images/icons/icon-black.jpg",
-      "srcImg": "images-black/images-black-1/",
+      "srcImg": "./images/images-black/images-black-1/civic-1.jpg",
       "color": "Black",
       "price": "19,550",
       "engineType": "In-Line 4-Cylinder",
@@ -15,15 +15,15 @@
       "wheels": [
         {
           "idWheel": 1,
-          "srcImg": "images-black/images-black-1/"
+          "srcImg": "images/images-black/images-black-1/civic-1.jpg"
         },
         {
           "idWheel": 2,
-          "srcImg": "images-black/images-black-2/"
+          "srcImg": "images/images-black/images-black-2/civic-1.jpg"
         },
         {
           "idWheel": 3,
-          "srcImg": "images-black/images-black-3/"
+          "srcImg": "images/images-black/images-black-3/civic-1.jpg"
         }
       ]
     },
@@ -32,7 +32,7 @@
       "title": "Modern Steel",
       "type": "Metallic",
       "img": "./images/icons/icon-steel.jpg",
-      "srcImg": "images-steel/images-steel-1/",
+      "srcImg": "./images/images-steel/images-steel-1/civic-1.jpg",
       "color": "Steel",
       "price": "20,550",
       "engineType": "In-Line 4-Cylinder",
@@ -43,15 +43,15 @@
       "wheels": [
         {
           "idWheel": 1,
-          "srcImg": "images-steel/images-steel-1/"
+          "srcImg": "./images/images-steel/images-steel-1/civic-1.jpg"
         },
         {
           "idWheel": 2,
-          "srcImg": "images-steel/images-steel-2/"
+          "srcImg": "./images/images-steel/images-steel-2/civic-1.jpg"
         },
         {
           "idWheel": 3,
-          "srcImg": "images-steel/images-steel-3/"
+          "srcImg": "./images/images-steel/images-steel-3/civic-1.jpg"
         }
       ]
     },
@@ -60,7 +60,7 @@
       "title": "Lunar Silver",
       "type": "Metallic",
       "img": "./images/icons/icon-silver.jpg",
-      "srcImg": "images-silver/images-silver-1/",
+      "srcImg": "./images/images-silver/images-silver-1/civic-1.jpg",
       "color": "Silver",
       "price": "21,550",
       "engineType": "In-Line 4-Cylinder",
@@ -71,15 +71,15 @@
       "wheels": [
         {
           "idWheel": 1,
-          "srcImg": "images-silver/images-silver-1/"
+          "srcImg": "./images/images-silver/images-silver-1/civic-1.jpg"
         },
         {
           "idWheel": 2,
-          "srcImg": "images-silver/images-silver-2/"
+          "srcImg": "./images/images-silver/images-silver-2/civic-1.jpg"
         },
         {
           "idWheel": 3,
-          "srcImg": "images-silver/images-silver-3/"
+          "srcImg": "./images/images-silver/images-silver-3/civic-1.jpg"
         }
       ]
     },
@@ -88,7 +88,7 @@
       "title": "Rallye Red",
       "type": "Metallic",
       "img": "./images/icons/icon-red.jpg",
-      "srcImg": "images-red/images-red-1/",
+      "srcImg": "./images/images-red/images-red-1/civic-1.jpg",
       "color": "Red",
       "price": "22,550",
       "engineType": "In-Line 4-Cylinder",
@@ -99,15 +99,15 @@
       "wheels": [
         {
           "idWheel": 1,
-          "srcImg": "images-red/images-red-1/"
+          "srcImg": "./images/images-red/images-red-1/civic-1.jpg"
         },
         {
           "idWheel": 2,
-          "srcImg": "images-red/images-red-2/"
+          "srcImg": "./images/images-red/images-red-2/civic-1.jpg"
         },
         {
           "idWheel": 3,
-          "srcImg": "images-red/images-red-3/"
+          "srcImg": "./images/images-red/images-red-3/civic-1.jpg"
         }
       ]
     }
