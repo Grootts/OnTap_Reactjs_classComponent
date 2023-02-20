@@ -72,6 +72,7 @@ export default class ChonXeNangCao extends Component {
               paddingRight: "50px",
             }}
             src={arrWheel.img}
+            alt=""
           />
           <div
             style={{
@@ -111,6 +112,7 @@ export default class ChonXeNangCao extends Component {
             onClick={() => {
               this.newColor(arrFeature);
             }}
+            alt=""
           />
           <div
             style={{
@@ -142,6 +144,7 @@ export default class ChonXeNangCao extends Component {
             <img
               src={this.state.currenCar.srcImg}
               style={{ width: "100%", height: "300px" }}
+              alt=""
             />
             {/* <div style={{ width: "100%", height: "300px" }}>
               <div

@@ -26,6 +26,7 @@ export default class BaiTapRenderFilm extends Component {
             <img
               style={{ width: "100%", height: "400px" }}
               src={film.hinhAnh}
+              alt=""
             />
             <div style={{ position: "absolute", top: "270px", zIndex: "5" }}>
               <h1

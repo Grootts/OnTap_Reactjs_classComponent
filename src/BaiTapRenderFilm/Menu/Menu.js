@@ -23,7 +23,6 @@ export default class Menu extends Component {
         <a
           style={{
             color: "black",
-
             padding: "15px",
             cursor: "pointer",
           }}

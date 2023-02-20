@@ -29,6 +29,7 @@ export default class BaiTapThuKinh extends Component {
         onClick={() => {
           this.targetGlasses(dataGlasse);
         }}
+        alt=""
       />
     ));
   };
@@ -76,6 +77,7 @@ export default class BaiTapThuKinh extends Component {
                     position: "absolute",
                   }}
                   src="./glassesImage/model.jpg"
+                  alt=""
                 />
                 <img
                   style={{
@@ -88,6 +90,7 @@ export default class BaiTapThuKinh extends Component {
                     opacity: "0.7",
                   }}
                   src={this.state.glasses.url}
+                  alt=""
                 />
                 <div
                   style={{
@@ -124,6 +127,7 @@ export default class BaiTapThuKinh extends Component {
                     border: "2px solid black",
                   }}
                   src="./glassesImage/model.jpg"
+                  alt=""
                 />
                 <img
                   style={{
@@ -137,6 +141,7 @@ export default class BaiTapThuKinh extends Component {
                     opacity: "0.7",
                   }}
                   src={this.state.glasses.url}
+                  alt=""
                 />
                 <div
                   style={{
