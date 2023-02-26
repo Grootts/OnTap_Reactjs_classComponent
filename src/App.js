@@ -8,6 +8,7 @@ import DemoProps from "./Props/DemoProps";
 import PropsList from "./Props/PropsList";
 import dataProduct from "./Data/arrayFeatures.json";
 import { useState } from "react";
+import DanhsachItem from "./Props/DanhsachItem";
 function App() {
   const [home, setHome] = useState(false);
 
@@ -24,7 +25,7 @@ function App() {
        <BaiTapThuKinh />
       <ChonXeNangCao />
       <DemoProps /> */}
-      <div>
+      {/* <div>
         <button
           className="button"
           onClick={handleClickHome}
@@ -66,7 +67,8 @@ function App() {
         >
           Shop
         </button>
-      </div>
+      </div> */}
+      <DanhsachItem />
     </div>
   );
 }
